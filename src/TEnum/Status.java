@@ -1,0 +1,10 @@
+package TEnum;
+
+public enum Status {
+MATRICULADO,	
+PENDENTE,
+CURSANDO,
+CONCLUIDO,
+TRANCADO,
+REPROVADO;
+}
